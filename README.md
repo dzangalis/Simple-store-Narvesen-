@@ -1,2 +1,2 @@
 # Simple-store-Narvesen-
-php and JSON files for the exercises: Simple store
+php and JSON files for the exercise: Simple store
