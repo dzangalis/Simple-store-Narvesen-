@@ -26,9 +26,9 @@ while (true) {
             $productName = ucfirst(strtolower(readline("Enter the products name: ")));
             $contains = false;
             foreach ($products as $product) {
-                if (strcasecmp($product['name' ], $productName) === 0) {
+                if (strcasecmp($product['name'], $productName) === 0) {
                     $contains = true;
-                    break   ;
+                    break;
                 }
             }
             if ($contains === false) {
