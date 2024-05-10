@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "name": "Coffee",
+      "price": 1.60
+    },
+    {
+      "name": "Tea",
+      "price": 1.20
+    },
+    {
+      "name": "Soda",
+      "price": 0.99
+    },
+    {
+      "name": "Chips",
+      "price": 2.30
+    },
+    {
+      "name": "Chocolate",
+      "price": 1.97
+    },
+    {
+      "name": "Sandwich",
+      "price": 3.20
+    },
+    {
+      "name": "Hotdog",
+      "price": 2.20
+    }
+  ]
+}
